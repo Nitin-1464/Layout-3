@@ -1,21 +1,27 @@
 #main{
     background-color:   #E2D061;
+    color: white;
 }
 img{
     position: solid;
 }
 #li{
     color: #3EBFDA;
+    
 }
 #bg{
     background-color: rgba(0, 0, 0, 0.486) ;
+    color: white;
 }
 #block{
     background-color: #636268;
+    color: white;
 }
 #my{
     background-color: #B6F0F4;
+    color: white;
 }
 #at{
-    background-color:  #45464A;
+    background-color:   #45464A;
+    color: white;
 }
