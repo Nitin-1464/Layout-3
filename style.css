@@ -107,7 +107,7 @@
     padding-top: 3rem;
     color: white;
     font-family: Eastman Grotesque Extrabold;
-    /* float: right; */
+     float: right;
     padding-right: 2rem;
     list-style-type:none;
 }
@@ -155,4 +155,11 @@
 #head-col6
 {
     background-color: rgb(0, 217, 255);
+}
+#head-col7{
+    font-family: Eastman Grotesque Extrabold;
+     text-align: left;
+}
+#head-col8{
+    text-align: right;
 }
