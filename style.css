@@ -1,12 +1,17 @@
 #main{
-    background-color:   #E2D061;
+    background-color:    rgba(255, 255, 0, 0.524);
     color: white;
 }
-img{
-    position: solid;
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: var(--fontstyle);
 }
 #li{
     color: #3EBFDA;
+    background-color: rgb(0, 217, 255);
     
 }
 #bg{
@@ -14,14 +19,17 @@ img{
     color: white;
 }
 #block{
-    background-color: #636268;
+    background-color: #636268b8;
     color: white;
 }
 #my{
-    background-color: #B6F0F4;
+    background-color: rgb(0, 217, 255);
     color: white;
 }
 #at{
-    background-color:   #45464A;
+    background-color:   rgba(0, 0, 0, 0.486) ;
     color: white;
+}
+#get{
+    background-color: #D06C76;
 }
