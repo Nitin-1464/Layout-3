@@ -111,7 +111,7 @@
     padding-right: 2rem;
     list-style-type:none;
 }
-/*.li2
+.li2
 {
     
     font-size: 16px;
@@ -121,7 +121,7 @@
 .st
 {
     font-weight: 600;
-}*/
+}
 #head-col5
 {
     background-color: #FFFFFF;
@@ -162,4 +162,7 @@
 }
 #head-col8{
     text-align: right;
+}
+.container {
+    max-width: 1281px;
 }
