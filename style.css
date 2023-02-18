@@ -166,3 +166,16 @@
 .container {
     max-width: 1281px;
 }
+sup {
+    vertical-align: super;
+    font-size: smaller;
+}
+#img{
+    background-color: aqua;
+}
+#logo
+{
+    height: 6rem;
+    margin-top: 4rem;
+    margin-left: 2rem;
+}
